@@ -1,3 +1,4 @@
+![alt text](https://github.com/TheKuyPeD/KuyPeD-POPCAT-Bot/blob/main/icon.jpg?raw=true)
 # POPCAT bot by THE KuyPeD :thailand:
 
 Chrome extension bot for https://popcat.click/ work for Chromium engine browser
