@@ -1,4 +1,4 @@
-# POPCAT bot by THE KuyPeD :th:
+# POPCAT bot by THE KuyPeD :thailand:
 
 Chrome extension bot for https://popcat.click/ work for Chromium engine browser
 
