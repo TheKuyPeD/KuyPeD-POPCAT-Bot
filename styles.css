@@ -1,0 +1,68 @@
+.container {
+  width: 300px;
+  height: auto;
+
+  padding: 20px 20px 10px 20px;
+
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  justify-content: center;
+}
+.logo {
+  width: 200;
+  height: 200;
+}
+.thLogo {
+  width: 20;
+  height: 20;
+}
+.title {
+  text-align: center;
+  font-size: xx-large;
+}
+.thailandTitle {
+  padding: 0px 10px;
+  font-size: medium;
+  text-align: center;
+}
+.kuypedTitle {
+  font-size: medium;
+}
+.rowContainer {
+  width: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin: 10px 0px;
+}
+.botStatusTitle {
+  font-size: medium;
+}
+.versionTitle {
+  font-size: x-small;
+}
+.botStatusText {
+  padding-left: 10px;
+  font-size: medium;
+  font-weight: bolder;
+}
+.runningText {
+  color: green;
+}
+.stoppedText {
+  color: red;
+}
+.runningBg {
+  background-color: aquamarine;
+}
+.stoppedBg {
+  background-color: rgb(255, 153, 85);
+}
+.button {
+  padding: 5px 25px;
+  border-radius: 5px;
+  outline: none;
+
+  cursor: pointer;
+}
